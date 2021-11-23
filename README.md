@@ -5,7 +5,7 @@ I am looking forward to showcase my skills with the uploaded code and if You wou
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-
+##
 
 
 ### <img src="https://img.icons8.com/color/40/000000/studying.png"/> Currently learning:
@@ -14,7 +14,7 @@ I am looking forward to showcase my skills with the uploaded code and if You wou
 
 
 
-
+## 
 
 ### Achievements:
 
