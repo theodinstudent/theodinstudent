@@ -3,7 +3,11 @@
 Welcome to my Github, have a browse around!
 I am looking forward to showcase my skills with the uploaded code and if You would like to have me working at your company you can reach me on:
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div> 
+ <a href="https://github.com/theodinstudent">
+ <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ##
 
