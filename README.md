@@ -49,12 +49,14 @@ I am looking forward to showcase my skills with the uploaded code and if You wou
 <!-----------------------------------------------------------------------Certificates----------------------------------------------------------------------------> 
 ## 
 
-### Achievements:
+### <img align="center" src="https://img.icons8.com/nolan/64/diploma.png"/> Achievements:
 
-<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/25/000000/external-certificate-award-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-2.png"/> On November 2021, I conluded my Google Data Analytics Professional Certificate <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/25/000000/external-certificate-award-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-2.png"/>
+* On November 2021, I conluded my Google Data Analytics Professional Certificate 
 
--  Skills related to Data Analytics:
+<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/SBJCRCZFJLEE"><img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/></a>
+</div>
+ 
 
- <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/> <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/64/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/64/000000/ms-excel.png"/> <img src="https://img.icons8.com/color/64/000000/tableau-software.png"/>
+
  
  
