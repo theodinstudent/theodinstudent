@@ -12,19 +12,28 @@
   <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>
-  
-</div>
+ </div>
 
-# <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/40/000000/external-megaphone-cyber-monday-vitaliy-gorbachev-flat-vitaly-gorbachev-1.png"/> Hello World!
-
-Welcome to my Github, have a browse around!
+# <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/megaphone.png"/> Hello World!
+Welcome to my Github, have a browse [around](https://github.com/theodinstudent?tab=repositories)!
 I am looking forward to showcase my skills with the uploaded code and if You would like to have me working at your company you can reach me on:
+##
 
-### <img src="https://img.icons8.com/color/40/000000/studying.png"/>
- <img src="https://img.icons8.com/dusk/64/000000/mind-map--v2.png"/> Currently learning:
-* Mozilla Web Developer Program
-<img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/> 
-
+### <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/learning.png"/> Currently learning:
+ * Mozilla Web Developer Program
+ <div align="center">
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
+ </div>
 
 
 ## 
