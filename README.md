@@ -9,6 +9,7 @@
  
  <div align="center">
   <img align="center" height="64" width="64" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" height="64" width="64" title="Tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
   <img align="center" height="64" width="96" title="Sqlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"/>
   <img align="center" height="64" width="128" title="Google Big Query" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"/>
   <img align="center" height="64" width="64" title="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
@@ -53,7 +54,7 @@ I am looking forward to showcase my skills with the uploaded code and if You wou
 
 * On November 2021, I conluded my Google Data Analytics Professional Certificate 
 
-<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/SBJCRCZFJLEE"><img align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/></a>
+<div align="center"><a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/SBJCRCZFJLEE"><img title="Google Data Analytics Professional Specialization" align="center" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/></a>
 </div>
  
 
