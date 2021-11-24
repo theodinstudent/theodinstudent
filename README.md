@@ -3,12 +3,12 @@
  <a href="https://github.com/theodinstudent">
  <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true" />
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=216aff&icon_color=216aff&hide_border=true&custom_title=Languages" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=theodinstudent&margin-w=37&no-frame=true&theme=oldie&no-bg=true" />
+  <img height=180em align="center" src="https://github-profile-trophy.vercel.app/?username=theodinstudent&margin-w=37&no-frame=true&theme=flat&no-bg=true" />
 </div>
  
 <!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
  
- <div align="center">
+ <div height=180em align="center">
   <img align="center" height="64" width="64" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="64" width="64" title="Tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
   <img align="center" height="64" width="96" title="Sqlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
