@@ -8,7 +8,7 @@
  
 <!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
  
- <div height=180em align="center">
+ <div align="center">
   <img align="center" height="64" width="64" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="64" width="64" title="Tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
   <img align="center" height="64" width="96" title="Sqlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
@@ -19,7 +19,10 @@
   <img align="center" height="64" width="64" title="R Programming language" src="https://www.r-project.org/logo/Rlogo.svg" />
   <img align="center" height="64" width="64" title="RStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
  </div>
-<!----------------------------------------------------------Greetings card & Connection Badges-------------------------------------------------------------------> 
+
+ ##
+<!----------------------------------------------------------Greetings card & ConnectionBadges--------------------------------------------------------------------> 
+ 
  
 #  <img align="center" height="64" width="64" src="https://img.icons8.com/nolan/64/megaphone.png" /> Hello World!
 Welcome to my Github, have a browse around!
