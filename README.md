@@ -20,7 +20,8 @@
 Welcome to my Github, have a browse around!
 I am looking forward to showcase my skills with the uploaded code and if You would like to have me working at your company you can reach me on:
 
-### <img src="https://img.icons8.com/color/40/000000/studying.png"/> Currently learning:
+### <img src="https://img.icons8.com/color/40/000000/studying.png"/>
+ <img src="https://img.icons8.com/dusk/64/000000/mind-map--v2.png"/> Currently learning:
 * Mozilla Web Developer Program
 <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/> 
 
