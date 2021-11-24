@@ -5,8 +5,8 @@ I am looking forward to showcase my skills with the uploaded code and if You wou
 
 <div> 
  <a href="https://github.com/theodinstudent">
- <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=16&theme=dracula"/>
+ <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=16&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&layout=compact"/>
 </div>
 
 ##
