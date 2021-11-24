@@ -1,7 +1,7 @@
 <div> 
  <a href="https://github.com/theodinstudent">
-  <img height=225em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
-  <img height=225em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=Languages"/>
+  <img height=200em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
+  <img height=210em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=Languages"/>
 </div>
  <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
