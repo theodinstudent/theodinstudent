@@ -1,9 +1,9 @@
 <!----------------------------------------------------------------Responsive Stats Boards----------------------------------------------------------------------->
 <div> 
  <a href="https://github.com/theodinstudent">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=theodinstudent&margin-w=37&no-frame=true&theme=oldie&no-bg=true" />
  <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&&hide_border=true&&title_color=216aff&icon_color=216aff&include_all_commits=true&count_private=true" />
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=216aff&icon_color=216aff&hide_border=true&custom_title=Languages" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=theodinstudent&margin-w=37&no-frame=true&theme=oldie&no-bg=true" />
 </div>
  
 <!------------------------------------------------------------------Technologies I Know--------------------------------------------------------------------------> 
