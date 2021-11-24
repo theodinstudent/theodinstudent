@@ -1,7 +1,7 @@
 <div> 
  <a href="https://github.com/theodinstudent">
-  <img height=190em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
-  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=Languages"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=theodinstudent&show_icons=true&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodinstudent&layout=compact&langs_count=20&bg_color=ffffff&title_color=198559&icon_color=198559&hide_border=true&text_color=5c6461&custom_title=Languages"/>
 </div>
  
  
